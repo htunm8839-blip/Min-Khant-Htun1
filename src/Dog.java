@@ -4,5 +4,7 @@ public class Dog extends Animal {
     public void animalSound() {
         super.animalSound();
     }
+
 }
+
 
