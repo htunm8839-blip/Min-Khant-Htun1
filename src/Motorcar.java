@@ -7,6 +7,7 @@ public class Motorcar {
 
     class Electriccar extends Motorcar {
         public static void drive() {
+
             System.out.println("Electriccar is Driving");
         }
     }
